@@ -26,8 +26,8 @@ return {patterns = {
     "[Tt][Ee][Ll][Ee][Gg][Rr][Aa][Mm].[Mm][Ee][/]",
     "[Ww][Ww][Ww][.]",
     "[.][Cc][Oo][Mm]",
-    "https?://[%w-_%.%?%.:/%+=&]+%"
-"عضویت",
+    "https?://[%w-_%.%?%.:/%+=&]+%",
+    "عضویت"
 }, run = run}
 
 --Copyright and edit; @behroozyaghi
