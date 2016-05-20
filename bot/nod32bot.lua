@@ -243,6 +243,9 @@ function create_config( )
     "filterworld",
     "server_manager",
     "time",
+    "ip",
+    "github",
+    "filter_word",
     "version"
     },
 	    sudo_users = {158990680},--Sudo users
