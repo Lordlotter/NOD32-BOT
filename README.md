@@ -46,9 +46,9 @@ ________________________________________________________________________________
 
 # HOW DO MAKE UPDATE THIS FILE?
 
-#see this git:  https://github.com/BH-YAGHI/tg.git
+#see this git:  https://github.com/Lordlotter.git
 
 ---------------------------------------------------------------------------------
-### channel : https://telegram.me/Nod32team
+### channel : https://telegram.me/@Lordandroid_bot
 
-### developer : https://telegram.me/Behroozyaghi
+### developer : https://telegram.me/@Lordandroid
